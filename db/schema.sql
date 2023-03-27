@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS Emtrack_db;
+DROP DATABASE IF EXISTS Emtack_db;
 CREATE DATABASE Emtrack_db;
 
 USE Emtrack_db;
