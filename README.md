@@ -2,9 +2,10 @@
 
 ## Walkthrough-Video
 - Video 1
-[Untitled_ Apr 2, 2023 12_12 AM.webm](https://user-images.githubusercontent.com/120280613/229331178-d9960168-5731-4485-b934-961c0c8e84ef.webm)
+(https://user-images.githubusercontent.com/120280613/229331178-d9960168-5731-4485-b934-961c0c8e84ef.webm)
 
 - Video 2
+(https://user-images.githubusercontent.com/120280613/229331281-a522c173-d56e-418f-8d1b-b0dd7576f1bf.gif)
 
   ## Table-of-Contents
 
