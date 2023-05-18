@@ -48,8 +48,7 @@ const init = () => {
                     break;
                 case "Add an employee": addEmployee();
                     break;
-                case "Update an employee role": updateEmployee();
-                    break;
+                    nkn
                 case "I'm finished":
                     console.log("Thank you very much!");
                     process.exit();
@@ -177,9 +176,32 @@ const addEmployee = () => {
                     db.query(`SELECT * FROM employees`, (err, results) => {
                         err ? console.error(err) : console.table(results);
                         init();
-                    })
+                    });
                 }
             }
             )
         })
-}
+    };
+
+    //update Employee
+    const updateEmployee = () => {
+        inquirer
+            .prompt([
+                {
+                    name: "id",
+                    type: "input",
+                    message: "What is your employee ID?"
+                },
+            ])
+            .then((answers) => {
+                db.query('UPDATE employee SET role_id = ${answers.role} WHERE id = ${answers.id}',
+                    (err, results) => {
+                        if (err) throw err;
+                        console.log(results);
+                        options();
+                    });
+            })
+            .catch((err) => {
+                throw err;
+            });
+        };

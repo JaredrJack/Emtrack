@@ -32,7 +32,6 @@
   ## [Installation](#table-of-contents)
 - npm init
 - npm i inquirer@8.2.4
-- npm i console.table
 - npm i mysql2
 
   ## [Usage](#table-of-contents)
