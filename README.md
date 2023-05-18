@@ -1,6 +1,15 @@
-# Emtrack
+# Emtrack 
+
+## Walkthrough Videos
+- video 1
+
+![Untitled_ Apr 2, 2023 12_12 AM](https://user-images.githubusercontent.com/120280613/229331483-1aa10829-d11f-4d13-ba47-c61216d9afd9.gif)
+
+- video 2
+![Untitled_ Apr 2, 2023 12_17 AM](https://user-images.githubusercontent.com/120280613/229331501-941b5357-d368-4bc5-9538-c8c3e34b1a61.gif)
 
   ## Table-of-Contents
+
 
   * [Description](#description)
   * [Installation](#installation)
