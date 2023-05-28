@@ -14,13 +14,13 @@ INSERT INTO roles(title, salary, department_id)
             ("Lawyer", 180000, 3);
 
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-    VALUES  ("Jon", "Brown", 1, NULL),
-            ("Stevie", "Williams", 2, 1),
-            ("Armani", "Franklin", 2, 1),
-            ("Micah", "Jackson", 3, NULL),
-            ("Reggie", "Donaldson", 4, NULL),
+    VALUES  ("Jon", "Brown", 1, 1),
+            ("Stevie", "Williams", 2, 2),
+            ("Armani", "Franklin", 2, 3),
+            ("Micah", "Jackson", 3, 1),
+            ("Reggie", "Donaldson", 4, 4),
             ("Frank", "Omare", 5, 5),
             ("Amy", "Way", 5, 5),
-            ("Bryan", "Roberts", 6, NULL),
+            ("Bryan", "Roberts", 6, 3),
             ("Alicia", "Kells", 7, 8),
             ("Mary", "Blake", 7, 8);
