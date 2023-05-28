@@ -1,6 +1,9 @@
 # Emtrack 
 
 ## Walkthrough Video
+*Link to video
+- [Module 12 Challenge full.webm](https://github.com/JaredrJack/Emtrack/assets/120280613/114055c3-fd81-4477-90b0-1b646a9da267)
+
 
   ## Table-of-Contents
 
