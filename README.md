@@ -2,6 +2,7 @@
 
 ## Walkthrough Video
 *Link to video
+-file:///C:/Users/jared/Downloads/Module%2012%20Challenge%20full.webm
 - [Module 12 Challenge full.webm](https://github.com/JaredrJack/Emtrack/assets/120280613/114055c3-fd81-4477-90b0-1b646a9da267)
 
 
